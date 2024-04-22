@@ -1,13 +1,13 @@
-package com.example.EjemploRamas;
+package com.salesianos.triana.dam.EjemploRamas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EjemploRamasApplication {
+public class EjemploRamas01Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EjemploRamasApplication.class, args);
+		SpringApplication.run(EjemploRamas01Application.class, args);
 	}
 
 }
